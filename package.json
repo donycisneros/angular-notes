@@ -1,6 +1,11 @@
 {
   "name": "dashboard-angular",
   "version": "0.0.0",
+  "author": {
+    "name": "Dony Cisneros",
+    "email": "dony.cisne@gmail.com",
+    "url": "https://www.donycisneros.com"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
